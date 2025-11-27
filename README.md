@@ -7,6 +7,7 @@ To run this project:
 ### **Step 1: Activate your virtual environment**
 If you're using Windows:
 
+Open the cloned directory in any IDE like VsCode/PyCharm
 1. Navigate to \~\Project_Crop_Disease_Classification\plant-disease-prediction-cnn-deep-leanring-project
 2. run ".\venv\Scripts\activate"
 3. run "pip install -r app\requirements.txt"
